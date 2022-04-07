@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- *main--intry point  
- *returnto-to-end 
- */
+*main--intry point  
+*returnto-to-end 
+*/
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
