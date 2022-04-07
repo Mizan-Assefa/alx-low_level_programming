@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - main clock 
- * return : 0
+ * main - entry point 
+ * Return : 0
  */
 int main(void)
 {
