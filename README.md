@@ -1,2 +1,1 @@
-# alx-low_level_programming
-ALX-c-programming
+c programming readme file
