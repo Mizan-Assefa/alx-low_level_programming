@@ -1,8 +1,7 @@
 #include <stdio.h>
 /**
- *main  --- intry point 
- * 
- *returnt o to end 
+ *main--intry point  
+ *returnto-to-end 
  */
 int main(void)
 {
