@@ -1,9 +1,7 @@
 #include <stdio.h>
 /**
  *  main  --- intry point 
- * stdio.h for input out put strim
- * main for all funnctionwe ned
- * print the content 
+ * 
  * returnt o to end 
  */
  
