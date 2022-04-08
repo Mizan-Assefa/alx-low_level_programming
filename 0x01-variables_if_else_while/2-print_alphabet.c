@@ -1,13 +1,14 @@
 #include <stdio.h>
+
 /**
- * main - main bloch
+ * main -main bloch
  *
- * Return - always 0 succes
+ * Return: always 0 succes
  */
 
 int main(void)
 {
-	char alphabet:
+	char alphabet;
 	for (alphabet = 'a'; alphabet <= 'z'; alphabet++)
 	{
 		putchar(alphabet);
