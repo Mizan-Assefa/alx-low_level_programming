@@ -1,10 +1,11 @@
 #include<stdio.h>
 #include<time.h>
+#include<stdlib.h>
 
 /**
  * main- mainblock
  *
- * Return- return value
+ * Return- Always 0(success/correct)
  */
 int main(void)
 {
@@ -13,15 +14,15 @@ int main(void)
 	n = rand() - RAND_MAX / 2;
 	if(n>0)
 	{
-		printf("is positive\n");
+		printf("%i is positive\n",n);
 	}
 	else if(n==0)
 	{
-		printf("is zero\n");
+		printf("%i is zero\n",n);
 	}
 	else 
 	{
-		printf("is negative\n");
+		printf("%i is negative\n",n);
 	}
 	return (0);
 }
