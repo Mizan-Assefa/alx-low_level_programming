@@ -2,9 +2,9 @@
 #include<unistd.h>
 
 /**
- * main - mainblock
+ * main - entry point
  *
- * Return - 0
+ * Return - 1 success
  */
 int main(void)
 {
