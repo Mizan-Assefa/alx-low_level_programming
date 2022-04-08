@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include<stdio.h>
 
 /**
  * main -main bloch
@@ -15,6 +15,6 @@ int main(void)
 	}
 	putchar("\n");
 
-	return (0)
+	return (0);
 
 }
