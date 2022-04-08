@@ -1,12 +1,11 @@
 #include <stdio.h>
-
 /**
- *  main - entry bloch
+ * main - main bloch
  *
- *  Return - always 0
+ * Return - always 0 succes
  */
-int main(void)
 
+int main(void)
 {
 	char alphabet:
 	for (alphabet = 'a'; alphabet <= 'z'; alphabet++)
