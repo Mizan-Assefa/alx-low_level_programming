@@ -17,9 +17,8 @@ int main(void)
 		continue;
 	else if (lower_case == 'e')
 		continue;
-	}
 	putchar(lower_case);
-
+	}
 	putchar('\n');
 
 	return (0);
