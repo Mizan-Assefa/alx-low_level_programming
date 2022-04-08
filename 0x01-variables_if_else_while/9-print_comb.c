@@ -10,7 +10,7 @@ int main(void)
 
 	for (a = '0'; a <= '9'; c++)
 	{
-		putchar(c);
+		putchar(a);
 		if (a != '9')
 		{
 			putchar(',');
