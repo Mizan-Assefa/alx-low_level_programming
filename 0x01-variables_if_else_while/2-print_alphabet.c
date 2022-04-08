@@ -5,7 +5,6 @@
  *
  * Return: always 0 succes
  */
-
 int main(void)
 {
 	char alphabet;
