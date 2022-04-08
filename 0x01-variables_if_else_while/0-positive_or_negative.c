@@ -5,9 +5,8 @@
 /**
  * main - main block
  *
- * Return- Always 0(success/correct)
+ * Return: 1
  */
-
 int main(void)
 {
 	int n;
