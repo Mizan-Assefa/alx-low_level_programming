@@ -1,12 +1,13 @@
+#include<stdlib.h>
 #include<stdio.h>
 #include<time.h>
-#include<stdlib.h>
 
 /**
- * main- mainblock
+ * main - main block
  *
  * Return- Always 0(success/correct)
  */
+
 int main(void)
 {
 	int n;
