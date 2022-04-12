@@ -1,14 +1,22 @@
 #include <stdio.h>
 
+
 /**
- *  main - mainblock
+ *  main -main loop
  *
- *  Return: 0
+ *  Return: 0 sucess
  */
 int main(void)
-
 {
-	printf("_putchar\n");
+	_putchar('-');
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
+	_putchar('\n');
 
 	return (0);
 
