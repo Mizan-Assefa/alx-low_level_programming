@@ -1,10 +1,11 @@
 #include "main.h"
 /**
- *  print_sign - find the nmber 
+ * print_sign - return0 letter lower
  *
- *  @n: the int print
- *  Return: 0
+ *@n:the int to print
+ * Return: Always 0
  */
+
 int print_sign(int n)
 {
 	if (n > 0)
