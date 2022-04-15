@@ -13,12 +13,13 @@ void print_number(int n)
     _putchar (' '); 
     l = -n;
   }
-  else
+  if else
   {
     l = n;
   }
-  if (l / 10 !=0)
-  print_number (l / 10);
-  _putchar (l % 10) + '0');
+  else
+	  (l / 10 !=0)
+	  print_number (l / 10); 
+  _putchar ((l % 10) + '0');
 }
               
