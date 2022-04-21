@@ -1,9 +1,5 @@
 #include <stdio.h>
-/**
- *  main - mainblock
- *
- *  Return: alaways 0
- */
+
 int main(void)
 {
 int n;
