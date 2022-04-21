@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- *  _strcat - concatnate two string s
+ *  _strncat - concatnate two string s
  *  @dest: a pointer to chatacter thet will be changed
  *  @src: apointer to a character that will be changed
  *  @n: value
