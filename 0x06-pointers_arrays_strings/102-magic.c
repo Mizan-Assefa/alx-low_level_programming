@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
-* main - mainblock
-* 
-* Return: always 0
-*/
+ *  main - mainblock
+ *
+ *  Return: alaways 0
+ */
 int main(void)
 {
 int n;
