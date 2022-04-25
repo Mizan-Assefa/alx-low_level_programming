@@ -1,6 +1,4 @@
-nes (23 sloc)  396 Bytes
-   
-#include "main.h"
+ #include "main.h"
 
 /**
  * print_chessboard - print the chessboard, 2d array
